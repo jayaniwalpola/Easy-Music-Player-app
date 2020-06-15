@@ -1,0 +1,13 @@
+C:\Users\Jayani\Desktop\git\musicPlayerApp1\musicPlayerApp1\bin\Debug\musicPlayerApp1.exe.config
+C:\Users\Jayani\Desktop\git\musicPlayerApp1\musicPlayerApp1\bin\Debug\musicPlayerApp1.exe
+C:\Users\Jayani\Desktop\git\musicPlayerApp1\musicPlayerApp1\bin\Debug\musicPlayerApp1.pdb
+C:\Users\Jayani\Desktop\git\musicPlayerApp1\musicPlayerApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jayani\Desktop\git\musicPlayerApp1\musicPlayerApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jayani\Desktop\git\musicPlayerApp1\musicPlayerApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jayani\Desktop\git\musicPlayerApp1\musicPlayerApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jayani\Desktop\git\musicPlayerApp1\musicPlayerApp1\obj\Debug\musicPlayerApp1.csproj.ResolveComReference.cache
+C:\Users\Jayani\Desktop\git\musicPlayerApp1\musicPlayerApp1\obj\Debug\musicPlayerApp1.Form1.resources
+C:\Users\Jayani\Desktop\git\musicPlayerApp1\musicPlayerApp1\obj\Debug\musicPlayerApp1.Properties.Resources.resources
+C:\Users\Jayani\Desktop\git\musicPlayerApp1\musicPlayerApp1\obj\Debug\musicPlayerApp1.csproj.GenerateResource.Cache
+C:\Users\Jayani\Desktop\git\musicPlayerApp1\musicPlayerApp1\obj\Debug\musicPlayerApp1.exe
+C:\Users\Jayani\Desktop\git\musicPlayerApp1\musicPlayerApp1\obj\Debug\musicPlayerApp1.pdb
